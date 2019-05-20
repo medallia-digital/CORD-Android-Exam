@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Android_cord_app</string>
+    <string name="editTextHint">Enter a message</string>
+    <string name="ActionButtonText">Perform Action</string>
+    <string name="openActivityMessage">com.example.retro.MESSAGE</string>
+    <string name="bottomSheet">bottomSheet</string>
+
+</resources>
